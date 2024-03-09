@@ -1,4 +1,4 @@
-# My simple portfolio totally created by using CHAT_GPT prompts
+# My Simple Portfolio totally created by using CHAT_GPT prompts
 
 # Live DEMO :
 
