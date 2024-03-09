@@ -6,6 +6,7 @@ https://bannu-royals.github.io/MY-PORTFOLIO-USING-PROMPTS/
 
 # PREVIEW
 
-https://github.com/Bannu-Royals/MY-PORTFOLIO-USING-PROMPTS/blob/main/preview.jpeg
+![preview](https://github.com/Bannu-Royals/MY-PORTFOLIO-USING-PROMPTS/assets/119747146/0742d974-37d6-443a-817d-d4f324ae6455)
+
 
 
